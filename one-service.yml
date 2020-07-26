@@ -1,4 +1,4 @@
 server:
   port: 7400
 
-testmessage: Hello from the Config Server with changes:)
+testmessage: Hello from the Config Server :)
