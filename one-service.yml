@@ -2,3 +2,9 @@ server:
   port: 7400
 
 testmessage: Hello from the Config Server with changes:)
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /api-docs
